@@ -1,3 +1,3 @@
 # heart
 
-##### https://khaizer0.github.io/heart/
+##### https://khaizr0.github.io/heart/
